@@ -1,5 +1,5 @@
 #the libraries needed for the project
-import SpeechRecognition as sr
+import speech_recognition as sr
 import pyttsx3
 import pyautogui as pyg
 import webbrowser
